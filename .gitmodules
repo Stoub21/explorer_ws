@@ -1,6 +1,8 @@
 [submodule "explorer_stack"]
 	path = explorer_stack
 	url = ../explorer_stack.git
+	branch = auctus_dev
 [submodule "wheelchair_stack"]
 	path = wheelchair_stack
 	url = ../wheelchair_stack.git
+	branch = auctus_dev
